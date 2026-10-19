@@ -31,3 +31,4 @@ This is the process I followed to design the assets in this repository:
         * Centre it on the page
         * Add cutting guide marks near all corners
         * Save as [cover.svg](cover.svg)
+        * Export to [cover.pdf](cover.pdf)
